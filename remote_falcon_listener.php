@@ -2,7 +2,7 @@
 $PLUGIN_VERSION = "1.0.6";
 
 include_once "/opt/fpp/www/common.php";
-include_once "/home/fpp/media/plugins/remote-falcon/baseurl.php";
+include_once "/home/fpp/media/plugins/test-remote-falcon/baseurl.php";
 $baseUrl = getBaseUrl();
 $pluginName = basename(dirname(__FILE__));
 $pluginPath = $settings['pluginDirectory']."/".$pluginName."/"; 
