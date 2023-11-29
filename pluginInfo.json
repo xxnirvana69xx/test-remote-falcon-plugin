@@ -1,6 +1,6 @@
 {
 	"repoName": "test-remote-falcon",
-	"name": "test-Remote Falcon",
+	"name": "test Remote Falcon",
 	"author": "James Vance",
 	"description": "Allows remote control of FPP from the Remote Falcon web application (https://remotefalcon.com)",
 	"homeURL": "https://github.com/xxnirvana69xx/test-remote-falcon-plugin/",
