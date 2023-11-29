@@ -1,5 +1,5 @@
 //Globals
-var API_URL = 'https://remotefalcon.com/remotefalcon/api';
+var API_URL = 'http://192.168.200.107:8080/remotefalcon/api';
 
 //Config Globals
 var PLUGIN_VERSION = null;
