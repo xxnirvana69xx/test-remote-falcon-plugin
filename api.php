@@ -16,7 +16,7 @@ function getEndpointsremotefalcon() {
 }
 
 function putLog() {
-  $logFile = "/home/fpp/media/logs/remote_falcon_listener.log";
+  $logFile = "/home/fpp/media/logs/test_remote_falcon_listener.log";
 
   $data = file_get_contents('php://input');
 	
